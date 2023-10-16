@@ -3,11 +3,6 @@ In this project, I have created simple model which predict the price of the hous
 
 To run this project, following dependencies are required-
 
---> flask
-To install flask in your system, use command 
-
->> pip install flask
---> sklearn
 
 To install sklearn in your system, use command 
 >> pip install sklearn
